@@ -1,6 +1,6 @@
 # Full Stack Developer | Flutter, C#, React.js, Node.js
 
-![Profile Screenshot](https://github.com/bininebro/dating-app/blob/main/image/Screenshot_20230830-101311.jpg | width=50)
+<img src='https://github.com/bininebro/dating-app/blob/main/image/Screenshot_20230830-101311.jpg?raw=true' alt="dating app" width="400" height="700">
 
 Hello there! 👋 I'm a passionate full-stack developer with over 5 years of experience in building robust and scalable applications. My expertise spans across a variety of technologies, including Flutter, C# ASP.NET, C#, React.js, and Node.js. Here's a brief overview of what I bring to the table:
 
